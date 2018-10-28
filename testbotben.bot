@@ -1,0 +1,50 @@
+{
+  "name": "testbotben",
+  "padlock": "FXbz7m5ElGHVLOeoH1808Q==!Rs5hQJAEH58V96Cf+sa0WU1lIJZKC8XpD59NLEpQxxmDij4yX1F+CfKorUBPahfb",
+  "version": "2.0",
+  "services": [
+    {
+      "tenantId": "d7c91431-dd1d-4eec-9a15-d9fe0b1d85df",
+      "subscriptionId": "313c973d-83b3-4302-b521-2885d59ae3ea",
+      "resourceGroup": "testbotben",
+      "serviceName": "testbotben",
+      "type": "abs",
+      "name": "testbotben",
+      "id": "1"
+    },
+    {
+      "connectionString": "BBxUd6uK+kp6KTdLlHJtQA==!2OXMhSuKIJYQJGU6LK8Yc+1f3anNGvGqKJJnPGjAkD8eMuSRqxCsFFIRgdHuUCwQPRx3D4HRCSYZwWipdjO9tYxoRGzAowbwLnDo9Mny7EOWswqMGb+0LsVGPP5ohzVAY7chRjlflhejDb6AMkWOdx61iKcl70QOl8RwBT23zTk1xDNyClesuSzBBX4egDS5ni+bSkz+U5fsbKISMCtjUA==",
+      "tenantId": "d7c91431-dd1d-4eec-9a15-d9fe0b1d85df",
+      "subscriptionId": "313c973d-83b3-4302-b521-2885d59ae3ea",
+      "resourceGroup": "testbotben",
+      "serviceName": "testbotbena8c1",
+      "type": "blob",
+      "id": "2"
+    },
+    {
+      "appId": "",
+      "appPassword": "",
+      "endpoint": "http://localhost:3978/api/messages",
+      "type": "endpoint",
+      "name": "development",
+      "id": "3"
+    },
+    {
+      "appId": "2b52b696-accd-4b5a-a74f-0e0b50eb6368",
+      "appPassword": "cORnwH2dlHHVQK7mdtJWFg==!SLC/ZIkqj2mOe8na9MYSfSsCEtZ86XXmtGe8ZIM1I3w=",
+      "endpoint": "https://testbotben-a8c1.azurewebsites.net/api/messages",
+      "type": "endpoint",
+      "name": "production",
+      "id": "4"
+    },
+    {
+      "appId": "e6e831b6-1cd1-4fb6-b694-54d4235624b0",
+      "authoringKey": "+3D+0E66xKVLPSucX3/Erg==!5nubpMiPhQ2BNCuyL7W8FYr2O9+i/yiJP00r+c80YUCrKCj8cAtTg5ZGijlz66mz",
+      "version": "0.1",
+      "region": "westeurope",
+      "type": "luis",
+      "name": "BasicBotLuisApplication",
+      "id": "5"
+    }
+  ]
+}
